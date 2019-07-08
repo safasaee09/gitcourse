@@ -1,5 +1,9 @@
 <html>
 
-<head></head>
+<head>
+<title>welcome</title>
+</head>
+
+<body></body>
 
 </html>
