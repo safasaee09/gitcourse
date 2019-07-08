@@ -1,20 +1,9 @@
 <html>
-
 <head>
-<title>welcome</title>
-<style>
-<<<<<<< HEAD
 
 body {
-
 background-color: black;
-
-} 
-
-=======
-body {
-background-color: black;
-color:white;
+color:red;
 }
 >>>>>>> customCss
 </style>
