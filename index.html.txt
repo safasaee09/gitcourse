@@ -6,8 +6,9 @@
 body {
 
 background-color: black;
-color:green;
-font-size: 14px;
+color:red;
+height: 66px;
+font-size: 15px;
 }
 
 </style>
