@@ -8,6 +8,7 @@ body {
 background-color: black;
 color:red;
 height: 66px;
+min-height: 66px;
 font-size: 15px;
 }
 
